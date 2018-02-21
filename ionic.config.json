@@ -1,0 +1,8 @@
+{
+  "name": "think",
+  "app_id": "f407276b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
